@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "A.Sher.Py.Parallel", "A.Sher.Py.Parallel\A.Sher.Py.Parallel.pyproj", "{C888DFA3-A6CE-432F-8891-BF3F9D5886AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C888DFA3-A6CE-432F-8891-BF3F9D5886AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C888DFA3-A6CE-432F-8891-BF3F9D5886AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B91744BA-7E2D-4925-A775-2DA0BF8D38C2}
+	EndGlobalSection
+EndGlobal
